@@ -1,2 +1,2 @@
 # infrastructure
-Infrastructure as Code for CA-MMIS. Currently, AWS specific.
+Open source infrastructure as code for CA-MMIS Modernization
